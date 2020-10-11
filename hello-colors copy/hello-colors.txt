@@ -1,0 +1,103 @@
+Fonts:
+Prata - https://fonts.google.com/specimen/Prata
+Inconsolata - https://fonts.google.com/specimen/Inconsolata
+
+Colors & sizes:
+- hello title
+  color: #ffffff
+  font-size: 150px;
+- navigation
+  color: #27bcb8
+  font-size: 22px
+- text
+  font-size: 18px;
+  color: #ffffff;
+- hello background-color: #003170;
+- turquoise right column: background-color: #75e3dd;
+- works section heading
+  color: #4dc2bd;
+  font-size: 100px
+- pineapp. title
+  color: #0e726f;
+  font-size: 50px;
+  text below
+  color: #0e726f
+- link
+  color: #53c3c4;
+  font-size: 18px;
+- category heading e.g "branding & web#
+  font-size: 32px;
+  color: #16736e;
+  background:#75e3dd;
+- my team heading
+  color: #003170;
+  font-size: 100px;
+- contact
+  section heading
+  color: #f3747b;
+  font-size: 100px;
+- contact background
+  background-color: #f5979c;
+
+TEXT:
+hello!
+
+I’m Aga and this is my personal website.
+I’m a coding designer, so you can checkout
+my works here.
+
+
+scroll down to find our more about our studio
+
+works
+branding & web
+pineapp.
+Period: March-April 2016
+Team: John (UI), Edwin (UX),
+Jessica (Front-end)
+VISIT THE WEBSITE
+
+
+healty dining.
+branding & mobile
+Period: March-April 2016
+Team: John (UI), Edwin (UX),
+Jessica (Front-end)
+VISIT THE WEBSITE
+
+
+smart city.
+branding & web
+Period: March-April 2016
+Team: John (UI), Edwin (UX),
+Jessica (Front-end)
+VISIT THE WEBSITE
+
+
+
+how we started
+Whatever crucifix hexagon listicle keytar, blue bottle fap beard vinyl wayfarers tattooed. Viral direct trade meditation etsy venmo fingerstache. Post-ironic shabby chic try-hard, PBR&B man braid you probably haven't heard of them pour-over food truck VHS leggings iceland salvia copper mug.
+Austin pitchfork heirloom quinoa disrupt, twee locavore DIY small batch bicycle rights pop-up gochujang venmo. Deep v blue bottle hell of, kale chips man bun pok pok aesthetic letterpress stumptown. Helvetica 8-bit live-edge, narwhal snackwave meggings hoodie whatever mumblecore seitan next level. Pok pok kale chips freegan pabst cardigan.
+Pabst raw denim ramps, lo-fi hammock keffiyeh vape. VHS master cleanse franzen slow-carb letterpress literally, bushwick fingerstache scenester blue bottle. Aesthetic thundercats YOLO, freegan deep v 8-bit scenester affogato. Try-hard stumptown ugh pitchfork enamel pin waistcoat. Asymmetrical etsy church-key, leggings scenester vape meditation offal blog thundercats semiotics chicharrones. Offal iPhone forage sustainable. Cronut irony chillwave poke celiac.
+
+Next level iceland blue bottle fingerstache:
+
+- hella ennui banh mi iPhone kitsch prism VHS marfa fixie
+- Typewriter direct trade shoreditch,small batch hexagon
+- Poutine jean shorts kale chips normcore.
+
+
+contact
+
+Email: youremail@youremail.com
+Our office is located
+in the heart of Warsaw
+
+Feel free to say hello!
+
+Warsaw St. 23/21
+03-323 Warsaw,
+POLAND
+
+designed with love by Aga Naplocha from The Awwwwesomes
+wwww.theawwwesomes.org, @theawwwesomes
